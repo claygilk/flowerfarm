@@ -1,21 +1,18 @@
-# Ohio Barn Flower Farm Docs (OBFF)
+# OBFF Documentation
 
-Here you will find documentation and notes for my flower farm stuff.
 
-## Related Websites
+Our websites:
 
-* [OBFF com](https://ohiobarnflowerfarm.com)
-* [OBFF Blog](https://ohiobarnflowerfarm.blogspot.com)
-* [OBFF GitHub](https://github.com/ohiobarn/flowerfarm)
+* [ohiobarnflowerfarm.com](https://ohiobarnflowerfarm.com)
+* [blog](https://ohiobarnflowerfarm.blogspot.com)
 * [The Ohio Barn Wedding Venue ](https://www.theohiobarn.com)
 
-## Weather
+Important Bookmarks:
 
-* [OBFF Weather Dashboard](https://dashboard.ambientweather.net/devices/public/33d9827491fc0d43acf09325c70bd2bb)
-* [ARM: Field Application Resource Monitor](https://farm.bpcrc.osu.edu/dashboard)
+* [Crew Bookmarks](https://raindrop.io/collection/12804436?q=tag:crew&sort=-sort)
+* [Backoffice Bookmarks](https://raindrop.io/collection/12804436?q=tag:backoffice&sort=-sort)
+* [All Bookmarks](https://raindrop.io/collection/12804436)
 
-## Address
+---
 
-8790 Dayton-Springfield Rd.
-Fairborn, OH 45324
-
+8790 Dayton-Springfield Rd. Fairborn, OH 45324
